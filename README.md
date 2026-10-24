@@ -11,9 +11,9 @@ https://freecodecamp.org/certification/onunes/javascript-v9
 | # | Projeto | Testes | Status |
 |---|---|---|---|
 | 1 | [Markdown to HTML Converter](01-markdown-to-html-converter/) | 51/51 | ✅ |
-| 2 | Drum Machine | 10/10 | ⬜ a resgatar |
-| 3 | Voting App | 18/18 | ⬜ a resgatar |
-| 4 | Bank Account Management | 22/22 | ⬜ a resgatar |
+| 2 | [Drum Machine](02-drum-machine/) | 10/10 | ✅ |
+| 3 | [Voting App](03-voting-app/) | 18/18 | ✅ |
+| 4 | [Bank Account Management](04-bank-account-management/) | 22/22 | ✅ |
 | 5 | Weather App | 25/25 | ⬜ a resgatar |
 
 Cada pasta tem seu próprio README explicando o projeto e os testes cobertos.
