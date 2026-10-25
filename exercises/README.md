@@ -8,13 +8,15 @@ certificação da plataforma.
 ## Estrutura
 
 Uma pasta por módulo, no mesmo número/nome usado no [[Caderno de Estudo - JavaScript v9]]
-do cofre de estudo:
+do cofre de estudo, com nome em inglês pra ficar consistente com o resto do repositório:
 
 ```
 exercises/
-├── modulo-01-variaveis-e-strings/
-│   └── ...
-├── modulo-02-booleanos-e-numeros/
+├── module-01-variables-and-strings/
+│   ├── 01-greeting-bot/
+│   ├── 02-trivia-bot/
+│   └── 03-mad-libs-story-generator/
+├── module-02-booleans-and-numbers/
 │   └── ...
 ```
 
