@@ -17,3 +17,8 @@ https://freecodecamp.org/certification/onunes/javascript-v9
 | 5 | [Weather App](05-weather-app/) | 25/25 | ✅ |
 
 Cada pasta tem seu próprio README explicando o projeto e os testes cobertos.
+
+## Exercícios
+
+Além dos 5 projetos, a pasta [`exercises/`](exercises/) guarda as oficinas e laboratórios
+práticos resolvidos módulo por módulo ao longo do currículo.
